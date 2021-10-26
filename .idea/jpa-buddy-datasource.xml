@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="c73df521-2af1-4762-964f-2afcde802cdd" name="mfzwytdd" url="jdbc:postgresql://hattie.db.elephantsql.com/mfzwytdd" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
